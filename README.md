@@ -1,4 +1,6 @@
 # 👨🏻‍💻 Lucas Dacruz 🇧🇷
+Hello everyone, my name is Lucas Dacruz 🇧🇷
+I am a 19-year-old Software Engineering student. I love technology and programming. I am currently developing projects using HTML, CSS, JavaScript, and other crazy lol technologies. I am looking for new experiences, to improve my skills, and to become a great professional in the field.
 
 ## 💼 Profile
 Software Engineering student focused on Full Stack development. Passionate about programming and web development, always seeking to improve my skills and apply my knowledge through practical projects.
