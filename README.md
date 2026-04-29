@@ -1,12 +1,44 @@
-👨🏻‍💻 Lucas Dacruz
+# 👨🏻‍💻 Lucas Dacruz
 
-I am a Software Engineering student focused on Full Stack development. I have a strong interest in programming and web development, always seeking to improve my skills and apply my knowledge in practical projects. I am quick to learn new technologies, solve problems, and work with organization and commitment. I am currently looking for my first opportunity as an intern in the development field.
+## 💼 Profile
+Software Engineering student focused on Full Stack development. Passionate about programming and web development, always seeking to improve my skills and apply my knowledge through practical projects.
 
-📞 Contact
-📱 Phone: (41) 99901-7485
-📧 Email: luc4asxl@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/lucas-da-cruz-1681492b8
-🤖 Languages and Technologies
-<p> <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </p>
+Fast learner with strong problem-solving skills, organization, and commitment. Currently looking for my first opportunity as a **Software Development Intern**.
 
-<br/><br/>
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+<p>
+  <img align="center" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img align="center" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
+
+---
+
+## 📞 Contact
+
+- 📱 Phone: +55 (41) 99901-7485  
+- 📧 Email: luc4asxl@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-da-cruz-1681492b8  
+
+---
+
+## 🚀 About Me
+- 📚 Constantly learning new technologies  
+- 🧠 Strong problem-solving mindset  
+- ⚡ Organized and committed  
+- 🎯 Focused on becoming a Full Stack Developer  
