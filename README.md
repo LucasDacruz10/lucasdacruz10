@@ -33,7 +33,8 @@ Fast learner with strong problem-solving skills, organization, and commitment. C
 
 - 📱 Phone: +55 (41) 99901-7485  
 - 📧 Email: luc4asxl@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-da-cruz-1681492b8  
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-da-cruz-1681492b8
+- 📱 Instagram: https://www.instagram.com/lucasxdacruz?igsh=MWY0Z2pyeDR5cW93Zw%3D%3D&utm_source=qr
 
 ---
 
