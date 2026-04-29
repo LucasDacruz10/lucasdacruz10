@@ -14,13 +14,7 @@ Tenho estudado constantemente programação, com foco em desenvolvimento web, e 
 
   <a href="https://github.com/LucasDacruz10">
 
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Perfil-236ad3?style=for-the-badge&logo=github&logoColor=white"/>
-
-  </a>
-
   <a href="https://www.linkedin.com/in/lucas-da-cruz-1681492b8">
-
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
   </a>
 
