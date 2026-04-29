@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Lucas Dacruz
+# 👨🏻‍💻 Lucas Dacruz 🇧🇷
 
 ## 💼 Profile
 Software Engineering student focused on Full Stack development. Passionate about programming and web development, always seeking to improve my skills and apply my knowledge through practical projects.
